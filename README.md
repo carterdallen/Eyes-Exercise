@@ -1,4 +1,5 @@
 # Eyes-Exercise
+<img src= "eyes.png" width='300'/>
 
 **Website Link:**
 ><a href="http://carterdallen.github.io/Eyes-Exercise"> Eyes Exercise </a>
