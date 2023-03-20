@@ -1,10 +1,10 @@
 # Eyes-Exercise
 
 **Website Link:**
-https://carterdallen.github.io/Eyes-Exercise.github.io/
+><a href="http://carterdallen.github.io/Eyes-Exercise"> Eyes Exercise </a>
 
 **About Project:** 
-This project was created to demonstrate how to combine CSS styling, HTML, and JavaScript to create dynamic web pages.
+>This project was created to demonstrate how to combine CSS styling, HTML, and JavaScript to create dynamic web pages.
 
 **Roadmap:** 
-Add different eye colors or make the pupils change size as they move.
+>Add different eye colors or make the pupils change size as they move.
