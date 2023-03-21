@@ -8,7 +8,7 @@
 >This project was created to demonstrate how to combine CSS styling, HTML, and JavaScript to create dynamic web pages.
 
 ## How to Run:
->In GitHub clone respository
+>In GitHub, clone respository to local machine
 
 ## Roadmap: 
 >Add different eye colors or make the pupils change size as they move.
